@@ -1,0 +1,1 @@
+# Cpp_patterns_6_19
